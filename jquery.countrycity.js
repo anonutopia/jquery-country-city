@@ -1,8 +1,8 @@
 (function( $ ) {
  
+    console.log('CountryCity');
+
     $.fn.CountryCity = function() {
- 
-        console.log('CountryCity');
  
         return this;
  
